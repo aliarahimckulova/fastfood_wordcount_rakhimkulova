@@ -1,1 +1,1 @@
-# fastfood wordcount rakhimkulova
+# Fastfood wordcount rakhimkulova
