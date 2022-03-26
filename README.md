@@ -2,7 +2,7 @@
 
 Counting words and analysis of fast food datasets
 
-- Data source
+- Restaurants which used in analysis
   - McDonald's
   - KFC
   - Wendy's
